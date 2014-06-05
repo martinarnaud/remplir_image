@@ -1,0 +1,13 @@
+.remplir_image {
+	position: relative;
+	overflow: hidden;
+	display: block;
+}
+.remplir_image .image {
+	display: block;
+	position: absolute;
+	width: 100%;
+}
+.remplir_image .conteneur_image_responsive_h {
+	display: block;
+}
